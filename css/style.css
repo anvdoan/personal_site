@@ -1,3 +1,9 @@
+.header{
+  padding: 60px;
+  text-align: center;
+  font-size: 30px;
+}
+
 #footer{
   position: absolute;
   bottom:0;
