@@ -38,7 +38,9 @@ body{
 @media (min-width:801px)  {
 /* tablet, landscape iPad, lo-res laptops ands desktops */
 #footer{
-  position: absolute;
-  
+  position: fixed;
+  left: 0;
+  bottom: 0;
+
 
 }
