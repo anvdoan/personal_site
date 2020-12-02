@@ -34,3 +34,11 @@ body{
   width: 100%;
   height: 2.5rem;
 }
+
+@media (min-width:801px)  {
+/* tablet, landscape iPad, lo-res laptops ands desktops */
+#footer{
+  position: absolute;
+  
+
+}
