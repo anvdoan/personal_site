@@ -20,6 +20,7 @@ a{
 .nav_item:hover, .nav_item:active{
   text-decoration: underline;
 }
+
 body{
   margin-bottom: 0;
 }
