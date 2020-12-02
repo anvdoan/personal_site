@@ -5,6 +5,9 @@ a{
 p{
   line-height: 1.5;
 }
+.spilab_link{
+  text-decoration: underline;
+}
 .header{
   padding: 60px;
   text-align: center;
