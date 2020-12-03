@@ -51,7 +51,7 @@ p{
   text-decoration: underline;
 }
 
-.nav_item a:active{
+.current{
   text-decoration: underline;
   border-style: solid;
 }
