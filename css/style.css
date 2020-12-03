@@ -47,6 +47,10 @@ p{
   justify-content: space-between;
   align-items: center;
 }
+.nav_item{
+  justify-content: space-between;
+  align-items: center;
+}
 
 .nav_item:link, .nav_item:visited{
   text-decoration: none;
