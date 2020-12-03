@@ -11,6 +11,12 @@
 .skip-link:focus {
   transform: translateY(0%);
 }
+.nav_links{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  align-items: center;
+}
 h1{
   font-family: Arvo, 'Arial Black', sans-serif;
 }
