@@ -29,6 +29,7 @@ p{
 .nav_item:hover{
   text-decoration: underline;
 }
+
 .nav_item:active{
   text-decoration: underline;
 }
