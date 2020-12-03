@@ -53,6 +53,7 @@ p{
   height: 400px;
   background: url('../img/header_wout_bottom.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
 
 }
 .nav_links{
