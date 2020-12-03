@@ -93,12 +93,16 @@ body{
   height: 2.5rem;
 }
 
-@media (min-width:801px)  {
+@media screen and (min-width:801px)  {
 /* tablet, landscape iPad, lo-res laptops ands desktops */
-#footer{
+
+  #footer{
   position: relative;
   left: 0;
   bottom: 0;
-
+}
+  .nav_links{
+    flex-flow: row wrap;
+  }
 
 }
