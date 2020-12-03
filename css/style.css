@@ -103,6 +103,13 @@ body{
 }
   .nav_links{
     flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+
+  }
+  .nav_item{
+    justify-content: space-around;
+    align-items: flex-start;
   }
 
 }
