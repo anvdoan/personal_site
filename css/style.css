@@ -30,7 +30,7 @@ p{
   text-decoration: underline;
 }
 
-.nav_item:active{
+.nav_item a:active{
   text-decoration: underline;
 }
 
