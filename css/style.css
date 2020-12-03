@@ -11,12 +11,20 @@
 .skip-link:focus {
   transform: translateY(0%);
 }
+h1{
+  font-family: Arvo, 'Arial Black', sans-serif;
+}
+h2, h3{
+  font-family: 'Arial Black', sans-serif;
+}
 a{
   color: black;
   text-decoration: none;
 }
 p{
   line-height: 1.5;
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
 }
 .spilab_link, .petitionlink, .cryptolink{
   text-decoration: underline;
