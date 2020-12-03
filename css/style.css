@@ -43,6 +43,11 @@ p{
   padding: 60px;
   text-align: center;
   font-size: 30px;
+  color: #ffffff;
+  width: 100%;
+  height: 400px;
+  background: url('../img/header_image.jpg');
+  background-size: cover;
 }
 .nav_links{
   text-align: center;
