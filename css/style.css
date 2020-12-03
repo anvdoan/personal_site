@@ -5,10 +5,10 @@ a{
 p{
   line-height: 1.5;
 }
-.spilab_link{
+.spilab_link, .petitionlink, .cryptolink{
   text-decoration: underline;
 }
-.spilab_link:hover{
+.spilab_link:hover, .petitionlink:hover, .cryptolink:hover{
   text-decoration: none;
 }
 .header{
