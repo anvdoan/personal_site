@@ -11,6 +11,12 @@
 .skip-link:focus {
   transform: translateY(0%);
 }
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
 
 h1{
   font-family: Arvo, 'Arial Black', sans-serif;
