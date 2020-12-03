@@ -1,7 +1,5 @@
 html{
-  background-attachment: fixed;
-  background-position: center center;
-  background-repeat: no-repeat;
+  background: no-repeat center center fixed;
   background-size: cover;
 }
 .skip-link {
@@ -112,6 +110,9 @@ body{
   .nav_item{
     justify-content: space-around;
     align-items: flex-start;
+  }
+  .header{
+    background-attachment: fixed;
   }
 
 
