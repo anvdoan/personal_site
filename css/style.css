@@ -48,6 +48,10 @@ p{
   height: 400px;
   background: url('../img/header_image.jpg');
   background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
 }
 .nav_links{
   text-align: center;
