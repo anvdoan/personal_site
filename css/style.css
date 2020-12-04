@@ -1,7 +1,4 @@
-html{
-  background: no-repeat center center fixed;
-  background-size: cover;
-}
+
 .skip-link {
   background: #319795;
   color: #fff;
@@ -113,7 +110,24 @@ body{
     justify-content: space-around;
     align-items: flex-start;
   }
-  
+  html{
+    background: no-repeat center center fixed;
+    background-size: cover;
+  }
+  .header{
+    padding: 60px;
+    text-align: center;
+    line-height: 400px;
+    font-size: 30px;
+    color: #ffffff;
+    width: 100%;
+    height: 400px;
+    background: url('../img/header_image_para.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
 
 
 }
