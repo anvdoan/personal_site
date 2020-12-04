@@ -120,6 +120,8 @@ body{
   .header{
     font-size: 70px;
     background: url('../img/header_image_para.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .container{
     min-width:1000px;
