@@ -113,9 +113,7 @@ body{
     justify-content: space-around;
     align-items: flex-start;
   }
-  .header{
-    background-attachment: fixed;
-  }
+  
 
 
 }
