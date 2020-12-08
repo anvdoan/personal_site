@@ -3,6 +3,9 @@
   min-width:400px;
   height:auto;
 }
+.gallery-item{
+  margin:30px;
+}
 .skip-link {
   background: #ffffff;
   color: #205493;
