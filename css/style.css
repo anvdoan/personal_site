@@ -12,6 +12,12 @@
   position: absolute;
   transform: translateY(-100%);
 }
+.box{
+  margin: 30px;
+  background-color: black;
+  border: 1px solid black;
+  opacity: 0.6;
+}
 #gallery{
   display: flex;
   flex-flow: row wrap;
