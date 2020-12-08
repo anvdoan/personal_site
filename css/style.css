@@ -22,7 +22,7 @@
   margin: 30px;
   background-color: black;
   border: 1px solid black;
-  opacity: 0.6;
+  opacity: 0.65;
 }
 #gallery{
   display: flex;
@@ -64,7 +64,6 @@ p{
   text-align: center;
   line-height: 400px;
   font-size: 40px;
-  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   color: #ffffff;
   height: 400px;
   background: url('../img/small_image.jpg');
