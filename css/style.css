@@ -4,7 +4,10 @@
   height:auto;
 }
 .gallery-item{
-  margin:30px;
+  width: 600px;
+  height: 400px;
+  min-width: 400px;
+
 }
 .skip-link {
   background: #ffffff;
