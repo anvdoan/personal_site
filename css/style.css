@@ -4,7 +4,7 @@
   height:auto;
 }
 .gallery-item{
-  width: 600px;
+  width: 400px;
   height: 400px;
   min-width: 400px;
 
@@ -23,8 +23,7 @@
   background-color: black;
   border: 1px solid black;
   opacity: 0.7;
-  color:white;
-  
+  color: white;
 }
 #gallery{
   display: flex;
