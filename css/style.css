@@ -12,6 +12,10 @@
   position: absolute;
   transform: translateY(-100%);
 }
+#gallery{
+  display: flex;
+  flex-flow: row wrap;
+}
 
 .skip-link:focus {
   transform: translateY(0%);
