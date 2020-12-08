@@ -3,6 +3,7 @@
   min-width:400px;
   height:auto;
 }
+/*
 .section {
   display: grid;
   grid-template-columns: minmax(1.2rem, 1fr) minmax(auto, 57ch) minmax(1.2rem, 1fr);
@@ -10,6 +11,7 @@
 .section p{
   grid-column: 2
 }
+*/
 .gallery-item{
   width: 400px;
   height: 400px;
