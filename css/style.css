@@ -2,6 +2,7 @@
   display: flex;
   flex-flow: column;
   justify-content: space-between;
+  width:100%;
 }
 
 .questionCard{
@@ -10,6 +11,8 @@
   color: white;
   background-color: #dc2264;
   text-align: center;
+  margin:10px;
+  width:100%;
 
 }
 
