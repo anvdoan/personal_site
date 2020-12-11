@@ -1,4 +1,3 @@
-
 .container{
   width:100%;
   min-width:400px;
@@ -13,10 +12,11 @@
 
 }
 
- #gallery img{
-  width: 100%;
-  height: auto;
-  max-width: 100%
+.gallery-item{
+  width: 400px;
+  height: 400px;
+  min-width: 400px;
+
 }
 .skip-link {
   background: #ffffff;
@@ -39,7 +39,6 @@
   flex-flow: row wrap;
   width: 100%;
   height: 100%;
-  max-width: 400px
 }
 
 .skip-link:focus {
@@ -56,7 +55,6 @@ h1{
 }
 h2, h3{
   font-family: 'Arial Black', sans-serif;
-  margin: 5px;
 }
 a{
   color: black;
@@ -66,7 +64,6 @@ p{
   line-height: 1.5;
   font-size: 16px;
   font-family: Helvetica, Arial, sans-serif;
-  margin: 15px;
 }
 .spilab_link, .petitionlink, .cryptolink{
   text-decoration: underline;
@@ -155,11 +152,6 @@ body{
   }
   .container{
     min-width:1000px;
-  }
-  #gallery img{
-    width: 400px;
-    height: 400px;
-    max-width: 100%
   }
 
 
