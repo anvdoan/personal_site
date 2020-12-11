@@ -12,7 +12,7 @@
 
 }
 
-.gallery-item{
+.gallery img{
   width: 100%;
   height: auto;
 
@@ -155,7 +155,7 @@ body{
   .container{
     min-width:1000px;
   }
-  .gallery-item{
+  .gallery img{
     width: 400px;
     height: 400px;
     min-width: 400px;
