@@ -1,3 +1,16 @@
+.questions{
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+}
+
+.questionCard{
+  border:2px solid #dc2264;
+  border-radius: 5px;
+  color: white;
+  background-color: #dc2264;
+}
+
 .container{
   width:100%;
   min-width:400px;
@@ -157,6 +170,9 @@ body{
   }
   .container{
     min-width:1000px;
+  }
+  .questions{
+    flex-flow: row;
   }
 
 }
