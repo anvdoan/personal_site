@@ -4,10 +4,12 @@
   height:auto;
 }
 
-.section {
+#main {
   display: grid;
-    grid-auto-rows: minmax(125px, auto);
-    grid-gap: .5rem;
+  grid-auto-rows: minmax(125px, auto);
+  grid-gap: 1rem;
+  line-height: 2;
+
 }
 
 .gallery-item{
