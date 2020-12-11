@@ -16,6 +16,7 @@
   width: 100%;
   height: auto;
 
+
 }
 .skip-link {
   background: #ffffff;
@@ -158,8 +159,7 @@ body{
   .gallery img{
     width: 400px;
     height: 400px;
-    min-width: 400px;
-
+    min-width: 800px;
   }
 
 
