@@ -173,6 +173,10 @@ body{
   }
   .questions{
     flex-flow: row;
+    margin: 10px;
+  }
+  .questionCard{
+    width:25%;
   }
 
 }
